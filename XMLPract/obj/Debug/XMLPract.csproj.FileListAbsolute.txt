@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\XMLPract\XMLPract\bin\Debug\XMLPract.exe.config
+C:\Users\home\source\repos\XMLPract\XMLPract\bin\Debug\XMLPract.exe
+C:\Users\home\source\repos\XMLPract\XMLPract\bin\Debug\XMLPract.pdb
+C:\Users\home\source\repos\XMLPract\XMLPract\obj\Debug\XMLPract.csprojAssemblyReference.cache
+C:\Users\home\source\repos\XMLPract\XMLPract\obj\Debug\XMLPract.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\XMLPract\XMLPract\obj\Debug\XMLPract.exe
+C:\Users\home\source\repos\XMLPract\XMLPract\obj\Debug\XMLPract.pdb
